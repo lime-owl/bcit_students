@@ -1,0 +1,8 @@
+@import "colorPalette";
+@import "nav";
+@import "landing";
+
+body{
+    margin: 0;
+    background-color: rgb(153, 255, 255);
+}

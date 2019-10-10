@@ -1,0 +1,47 @@
+.nav-container {
+    padding-top: 1px;
+    padding: 18px;
+    display: flex;
+    text-align: center;
+    height: 88px;
+    background-color: #4169E1;
+    justify-content: space-around;
+  }
+  .nav-container .nav-item {
+    display: block;
+    margin-left: 2%;
+    margin-top: 2%;
+    color: white;
+    text-decoration: none;
+  }
+  
+  .landing-box {
+    margin: 8%;
+    margin-top: 10%;
+    width: 80%;
+    height: 80%;
+    display: flex;
+    justify-content: space-around;
+  }
+  .landing-box .landing-button {
+    margin: 8%;
+    width: 250px;
+    height: 100px;
+    padding: 2%;
+    border-radius: 18%;
+    background-color: #69319e;
+    text-align: center;
+  }
+  .landing-box .landing-button a {
+    text-decoration: none;
+    color: white;
+    font-size: xx-large;
+  }
+  
+  body {
+    margin: 0;
+    background-color: #99ffff;
+  }
+  
+  /*# sourceMappingURL=styles.css.map */
+  

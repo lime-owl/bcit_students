@@ -1,0 +1,17 @@
+.nav-container{
+    padding-top: 1px;
+    padding: 18px;
+    display: flex;
+    text-align: center;
+    height: 88px;
+    background-color: #4169E1;
+    justify-content: space-around;
+
+    .nav-item{    
+        display: block;
+        margin-left: 2%;
+        margin-top: 2%;
+        color: white;
+        text-decoration: none;
+    }
+}
