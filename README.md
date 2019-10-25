@@ -9,8 +9,9 @@
 <h3> TOM:  </h3>
 <ul> 
 <li> Schedule Page (calender) </li> 
- <li> contact page</li>
- <li> e resouce page </li>
+<li> contact page</li>
+<li> e resouce page </li>
+<li> course summary page </li>
 </ul>
 
 <br>
@@ -20,7 +21,9 @@
 <li> Welcome/landing page</li> 
  <li> student list  </li> 
 <li> staff list </li> 
- <li> course summary page </li>
+<li> prospective student landing page </li>
+<li> current student landing page </li>
+
 
  
 </ul>
